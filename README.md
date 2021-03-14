@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xa17d
+- 👀 I’m interested in Software Architecture, Android, Healthcare
+- 📫 How to reach me [xa1.at](https://xa1.at) [@xa17d](https://twitter.com/xa17d)
